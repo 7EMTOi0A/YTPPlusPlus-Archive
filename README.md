@@ -1,5 +1,7 @@
 This is an archive of YTP++ in it's original form, I do not own this wonderful piece of software and all credits go to KiwifruitDev,
 
+This archive was made out of spite of the other archive made by DevanWolf which included non vanilla stuff, meaning that their own videos were added there and were not originally included within the OG YTP++ 
+
 the orginal description is as follows:
 
 YTP++ is an iteration of YTP+, written in C#.
